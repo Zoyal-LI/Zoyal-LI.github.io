@@ -12,10 +12,10 @@
     </td>
   </tr>
 </table>
-###
+
 <table border="0">
   <tr>
-    <td width="10%">
+    <td width="100%" && length="10%">
    <h1>个人经历</h1>
 <td width="45%">
 <h2>校就业中心</h2>
