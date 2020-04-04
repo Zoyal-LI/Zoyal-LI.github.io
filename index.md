@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-<table border="2">
+<table border="1">
   <tr>
     <td length="10%">
    <h1>个人经历</h1>
